@@ -9,6 +9,10 @@ function App() {
   return (
     <>
       <h1>hi guys</h1>
+      <div className="star">
+        <h1>Project with nomaan</h1>
+        <h3>Mrityunjay Nomaan</h3>
+      </div>
     </>
   );
 }
